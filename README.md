@@ -8,3 +8,5 @@
 
 
 效果图如下：
+
+![Alt text](https://github.com/kilitoasuna/EventBusDemo/ScreenShots/效果图.PNG)
