@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventBusDemo</string>
+    <string name="text_init">text_init</string>
+</resources>
